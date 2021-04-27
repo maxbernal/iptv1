@@ -1,0 +1,808 @@
+#EXTM3U
+ 
+ 
+#EXTINF:0 tvg-id="Trece.es" group-title="ESPAÑA TDT",TRECE
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18011
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",tdp
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17998
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",24h
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17999
+#EXTINF:0 tvg-id="324.es" group-title="ESPAÑA TDT",3/24
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18072
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",BOM CINE
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27768
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",TEVE CAT HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27770
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",FIBRA CAT TV
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27769
+#EXTINF:0 tvg-id="LA1.es" group-title="ESPAÑA TDT",La 1
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18051
+#EXTINF:0 tvg-id="LA1.es" group-title="ESPAÑA TDT",La 1 HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18016
+#EXTINF:0 tvg-id="LA2.es" group-title="ESPAÑA TDT",La 2
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18022
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",La 2 HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18018
+#EXTINF:0 tvg-id="tv3" group-title="ESPAÑA TDT",TV3
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18048
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",TV3HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18034
+#EXTINF:0 tvg-id="Antena3.es" group-title="ESPAÑA TDT",antena3
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18071
+#EXTINF:0 tvg-id="Antena3.es" group-title="ESPAÑA TDT",antena3 HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18054
+#EXTINF:0 tvg-id="Atreseries.es" group-title="ESPAÑA TDT",atreseries HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18067
+#EXTINF:0 tvg-id="Cuatro.es" group-title="ESPAÑA TDT",Cuatro
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18064
+#EXTINF:0 tvg-id="Cuatro.es" group-title="ESPAÑA TDT",Cuatro HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18010
+#EXTINF:0 tvg-id="Telecinco.es" group-title="ESPAÑA TDT",Telecinco
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18013
+#EXTINF:0 tvg-id="Telecinco.es" group-title="ESPAÑA TDT",Telecinco HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18046
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",laSexta
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18066
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="ESPAÑA TDT",laSexta HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18020
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",BeMad tv HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18065
+#EXTINF:0 tvg-id="FDF.es" group-title="ESPAÑA TDT",FDF
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18021
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",25 TV
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18032
+#EXTINF:0 tvg-id="8TV.pl" group-title="ESPAÑA TDT",8TV
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18058
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",BDN-Badalona
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17997
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",COPE
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18003
+#EXTINF:0 tvg-id="Divinity.es" group-title="ESPAÑA TDT",Divinity
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18027
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",EL PUNT AVUI
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18042
+#EXTINF:0 tvg-id="Energy.es" group-title="ESPAÑA TDT",Energy
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17994
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",EUROPA FM
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18024
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",IB3 Global
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18039
+#EXTINF:0 tvg-id="mega" group-title="ESPAÑA TDT",mega
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18069
+#EXTINF:0 tvg-id="Neox.es" group-title="ESPAÑA TDT",neox
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18044
+#EXTINF:0 tvg-id="NovaTV.cz" group-title="ESPAÑA TDT",NOVA
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18035
+#EXTINF:0 tvg-id="Paramount.es" group-title="ESPAÑA TDT",PARAMOUNT NETWORK
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18053
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",Radio Ciutat Badalona
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18052
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",Radio Clasica HQ RNE
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18008
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",Radio Exterior RNE
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18029
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA TDT",TV Hospitalet
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18004
+ 
+#EXTINF:0 tvg-id="ext" group-title="BEIN MOVIES ARABIC",($===== ARABIC-LOCAL-TIME =====$)
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/7246
+#EXTINF:0 tvg-id="ext" group-title="BEIN MOVIES ARABIC",AL AOULA TV MOROCCO
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17046
+#EXTINF:0 tvg-id="ext" group-title="BEIN MOVIES ARABIC",AL MAGHRIBIYA TV MOROCCO
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17047
+#EXTINF:0 tvg-id="ext" group-title="BEIN MOVIES ARABIC",ARRABIA TV MOROCCO
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17056
+#EXTINF:0 tvg-id="ext" group-title="BEIN MOVIES ARABIC",ARRYADIA TV MOROCCO
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17043
+#EXTINF:0 tvg-id="ext" group-title="BEIN MOVIES ARABIC",ASSADISSA TV MOROCCO
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17045
+#EXTINF:0 tvg-id="ext" group-title="BEIN MOVIES ARABIC",LAAYOUNE TV MOROCCO
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17057
+#EXTINF:0 tvg-id="ext" group-title="BEIN MOVIES ARABIC",M2 TV MOROCCO
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17041
+#EXTINF:0 tvg-id="ext" group-title="BEIN MOVIES ARABIC",MEDI 1 TV MOROCCO
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17042
+#EXTINF:0 tvg-id="ext" group-title="BEIN MOVIES ARABIC",TAMAZIGHT TV MOROCCO
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17044
+ 
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AUTRIA:  FS1
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12449
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AUTRIA: Dorf TV
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12450
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AUTRIA: HITRADIO
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12456
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AUTRIA: K-TV
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12451
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AUTRIA: Melodie Express
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12452
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AUTRIA: Okto
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12453
+#EXTINF:0 tvg-id="ext" group-title="AUSTRIA",AUTRIA: Swamiji TV Vienna
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12455
+ 
+#EXTINF:0 tvg-id="ext" group-title="DENMARK",TV Bornholm
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12667
+#EXTINF:0 tvg-id="ext" group-title="DENMARK",DK TV 2 Nord Salto
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12665
+#EXTINF:0 tvg-id="ext" group-title="DENMARK",DK TV Fyn
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12668
+#EXTINF:0 tvg-id="ext" group-title="DENMARK",DK TV Øst
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12670
+ 
+#EXTINF:0 tvg-id="ext" group-title="NORWAY",Canal Motor
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12671
+#EXTINF:0 tvg-id="ext" group-title="NORWAY",Hope Channel Norge
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12672
+#EXTINF:0 tvg-id="Kanal10.no" group-title="NORWAY",Kanal 10 Norge
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12673
+#EXTINF:0 tvg-id="ext" group-title="NORWAY",($===== SCANDINAVIANS-VODS-DK =====$)
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/16522
+ 
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",USA: 105 TV
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/1356
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",[ES] CLASSICA
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18460
+#EXTINF:0 tvg-id="MezzoLiveHD.es" group-title="ESPAÑA MUSICA",ES: MEZZO LIVE HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15078
+#EXTINF:0 tvg-id="MezzoLiveHD.es" group-title="ESPAÑA MUSICA",ES: MEZZO LIVE 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14973
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",[ES] MEZZO
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18542
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",MEZZO UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18428
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",Cadena Elite TV Granada ES
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/16986
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",Mola TV ES
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/16967
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",Telemúsica Colombia ES
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/16990
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",Radio Power Argentina ES
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/16991
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",Portal Formix TV Chile ES
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/16992
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",Music TOP Argentina ES
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/16985
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",RAC 105
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18006
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",RAC105
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18040
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",LOS 40 FM
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27771
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",LOS40 CLASSIC FM
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27772
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",LOS40 URBAN FM
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27773
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",CADENA 100
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18036
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",ONDA CERO
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17996
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",RAC1
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18061
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA MUSICA",Carolina TV Chile ES
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/16987
+ 
+#EXTINF:0 tvg-id="ext" group-title="LATIN",($===== LATINO-LOCAL-TIME =====$)
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/7247
+ 
+#EXTINF:0 tvg-id="ext" group-title="TURKEY",($===== TURKEY-LOCAL-TIME =====$)
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/7237
+#EXTINF:0 tvg-id="TRTHaber.tr" group-title="TURKEY",TRT HABER HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/967
+ 
+#EXTINF:0 tvg-id="AntenneCentre.be" group-title="Belgium",Antenne Centre
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12422
+#EXTINF:0 tvg-id="ext" group-title="Belgium",BX 1
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12413
+#EXTINF:0 tvg-id="CanalC.be" group-title="Belgium",Canal C
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12414
+#EXTINF:0 tvg-id="MaTele.be" group-title="Belgium",Matélé
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12415
+#EXTINF:0 tvg-id="ext" group-title="Belgium",Notélé
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12416
+#EXTINF:0 tvg-id="ext" group-title="Belgium",RTC Télé Liège
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12417
+#EXTINF:0 tvg-id="Telesambre.be" group-title="Belgium",Télésambre
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12420
+#EXTINF:0 tvg-id="RTVOost.nl" group-title="Belgium",TV Oost
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12419
+#EXTINF:0 tvg-id="TVL" group-title="Belgium",TV Limburg
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/12418
+ 
+#EXTINF:0 tvg-id="ext" group-title="NETHERLANDS",($===== NETHERLAND-CHANNELS-NL =====$)
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/16519
+ 
+#EXTINF:0 tvg-id="ext" group-title="FM Radio",($===== FM-RADIO-WORLD =====$)
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/16561
+ 
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",M. LCAMPEON 2 UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/29143
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",M. LCAMPEON 1 UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/29142
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",M. La Liga 3 UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/29141
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",M. La Liga 2 UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/29140
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",DAZN 4 UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/29139
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",DAZN 3 UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/29138
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",DAZN F1 UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/29136
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",DAZN 2 UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/29133
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",($===== ESPAÑA FUTBOL =====$)
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/7235
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",DAZN 1 UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17065
+#EXTINF:0 tvg-id="SkySportMotoGP.it" group-title="ESPAÑA FUTBOL",Sky Sport MotoGP HD IT
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17251
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",LALIGATV BAR ESPACIAL
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/1923
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",LIGA CAMPEONES FHD ES
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17058
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",LaLigaTV BAR FHD ES
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27070
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES: LA LIGA TV BAR 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17210
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:LIGATVBAR 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17785
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",LALIGATV BAR UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18444
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",BARLA TV HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27767
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] M.Partidazo
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18543
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES: M. Partidazo 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14969
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:M. PARTIDAZO 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17783
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES: BEIN LA LIGA 1080 HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14968
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] BEIN LALIGA
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18538
+#EXTINF:0 tvg-id="BeinLaLiga.es" group-title="ESPAÑA FUTBOL",ES: BEIN LA LIGA 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14990
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:BEIN LA LIGA 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17782
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",BEIN LA LIGA UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18403
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",M.LCAMPEONES UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18413
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:M. LIGA DE CAMPEONES 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17751
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",#VAMOS UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17749
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|: LIGATVBAR 720 HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17832
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES: M. Vamos 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14926
+#EXTINF:0 tvg-id="Esport3.es" group-title="ESPAÑA FUTBOL",Esport3
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18038
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",TDP HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18028
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] TELEDEPORTE
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18509
+#EXTINF:0 tvg-id="GOL.es" group-title="ESPAÑA FUTBOL",GOL
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18026
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] GOL
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18553
+#EXTINF:0 tvg-id="Barca.pt" group-title="ESPAÑA FUTBOL",Barça TV
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18055
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] BAR.A TV
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18559
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] R. MADRID TV
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18456
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] MULTIDEPORTE
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18541
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES: LA LIGA TV BAR HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17209
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] LALIGATV BAR
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18534
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] LALIGA123TV
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18512
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES: BEIN LA LIGA HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14933
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:BEIN LA LIGA 720
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17829
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:BEIN LA LIGA 2 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17743
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:BEIN LA LIGA 2 720
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17790
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] M.LCAMPEONES
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18490
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:M. LIGA DE CAMPEONES 720
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17798
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES: M. LIGA DE CAMPEONES HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14992
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES: M. Liga De Campeones 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14967
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:#VAMOS 720
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17796
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES: M. Vamos  HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14987
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] #VAMOS BAR SD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18465
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",#VAMOS UHD2 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18410
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] M. WIMBLEDON
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18478
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",M.WIMBLEDON UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18433
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES: M. DEPORTES HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14991
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES: M. DEPORTES 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14959
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:M. DEPORTES 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17767
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:M. DEPORTES 720
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17814
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] M. DEPORTES
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18533
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",M. DEPORTES UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18429
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES: M. DEPORTES 1 HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17111
+#EXTINF:0 tvg-id="CanalPlusDeportes.es" group-title="ESPAÑA FUTBOL",ES: M. DEPORTES 1 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17112
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:M. DEPORTES 1 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17772
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:M. DEPORTES 1 720
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17819
+#EXTINF:0 tvg-id="MovistarFormula1.es" group-title="ESPAÑA FUTBOL",ES: Movistar F1 HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14995
+#EXTINF:0 tvg-id="MovistarFormula1.es" group-title="ESPAÑA FUTBOL",ES: Movistar F1 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14963
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:M. FORMULA 1 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17771
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:M. FORMULA 1 720
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17818
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] M.FORMULA1
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18551
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",M.FORMULA1 UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18434
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] M. F.TBOL
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18532
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES: M. GOLF HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15072
+#EXTINF:0 tvg-id="Golf.es" group-title="ESPAÑA FUTBOL",ES: M. Golf 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14965
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:M. GOLF 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17752
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:M. GOLF 720
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17799
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] M. GOLF
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18531
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",M. GOLF UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18414
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES: CANAL TOROS HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15075
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="ESPAÑA FUTBOL",ES: CANAL TOROS 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14972
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:TOROS 720
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17810
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:TOROS 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17763
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] TOROS
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18489
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",TOROS UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18425
+#EXTINF:0 tvg-id="EurosportHD.es" group-title="ESPAÑA FUTBOL",ES: Eurosport HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15055
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="ESPAÑA FUTBOL",ES: Eurosport 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14946
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] EUROSPORT 1
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18555
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",EUROSPORT1 UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18430
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] EUROSPORT 2
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18459
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="ESPAÑA FUTBOL",ES: Eurosport 2 HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15054
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES:Eurosport 2 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14945
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:EUROSPORT 1 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17768
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:EUROSPORT 1 720
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17815
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES: M. Partidazo HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14993
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:M. PARTIDAZO 720
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17830
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",M.Partidazo UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18440
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES: M. LIGA DE CAMPEONES1 HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15023
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES: M. LIGA DE CAMPEONES2
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15024
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] BEINLALIGA1
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18501
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",BEIN LA LIGA 1 UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18402
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] LALIGATVBAR1
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18548
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] M. LaLiga SD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18498
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] M. DEPORTES2
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18495
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",M. DEPORTES 1 UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18494
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] M. F.TBOL 1
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18546
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] #VAMOS SD 2
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18493
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:BEIN LA LIGA 1 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17781
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:BEIN LA LIGA 1 720
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17828
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:M. LCAMPEON1 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17742
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:M. LCAMPEON1 720
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17789
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:M. LCAMPEON2 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17741
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:M. LCAMPEON2 720
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17788
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] MTV ESPA¹A
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18550
+#EXTINF:0 tvg-id="Beteve.es" group-title="ESPAÑA FUTBOL",betevé
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18060
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",[ES] M. ACCI©N
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18469
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",|ES|:M. SERIESMANIA 720
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17797
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",ES LALIGATVBAR1 SD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27082
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",M. LA LIGA 1 UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27083
+#EXTINF:0 tvg-id="Vamos.es" group-title="ESPAÑA FUTBOL",#VAMOS
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27086
+#EXTINF:0 tvg-id="Vamos.es" group-title="ESPAÑA FUTBOL",#VAMOS
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27087
+#EXTINF:0 tvg-id="BeINLaLiga.es" group-title="ESPAÑA FUTBOL",BEIN LALIGA
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27090
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",M. DEPORTES1
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27100
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",betevé 91.0
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18019
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",RNE Cataluña
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18033
+#EXTINF:0 tvg-id="Telecinco.es" group-title="ESPAÑA FUTBOL",TELECINCO HD ES
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/5235
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",7 Televisión Región Murcia ES
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/16982
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA FUTBOL",($===== PELICULAS-ESPAÑOLAS-ES =====$)
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/16518
+ 
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",Dream Works UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/29137
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="ESPAÑA CINE",ES: #0 HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15025
+#EXTINF:0 tvg-id="Hashtag0.es" group-title="ESPAÑA CINE",ES: #0 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14927
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",[ES] #0
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18476
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",#0 UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18424
+#EXTINF:0 tvg-id="CanalPlusAccion.es" group-title="ESPAÑA CINE",ES: M. ACCION HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15067
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",ES: M. ACCION 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14955
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",M. ACCION UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18399
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",[ES] M. Cine Espanol
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18479
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",ES: M. ESTRENOS HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15070
+#EXTINF:0 tvg-id="CanalPlusEstrenos.sp" group-title="ESPAÑA CINE",ES: M. ESTRENOS 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14962
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",[ES] M. ESTRENOS
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18511
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",M.ESTRENOS UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18407
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",ES: M. COMEDIA HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15068
+#EXTINF:0 tvg-id="CanalPlusComedia.es" group-title="ESPAÑA CINE",ES: M. COMEDIA 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14957
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",M.COMEDIA UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18443
+#EXTINF:0 tvg-id="Hollywood.es" group-title="ESPAÑA CINE",ES: Hollywood HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15064
+#EXTINF:0 tvg-id="Hollywood.es" group-title="ESPAÑA CINE",ES: Hollywood 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14951
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",[ES] HOLLYWOOD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18524
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",HOLLYWOOD UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18400
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",ES: M. CINEDOC&ROLL HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15076
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",ES: M. CineDoc&Roll 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14956
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",[ES] M.CineDoc&Roll
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18520
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",M.CineDoc&Roll UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18408
+#EXTINF:0 tvg-id="TCM.sp" group-title="ESPAÑA CINE",ES: TCM HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15093
+#EXTINF:0 tvg-id="TCM.sp" group-title="ESPAÑA CINE",ES: TCM 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14981
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",TCM UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18419
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="ESPAÑA CINE",ES: Comedy central HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15041
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="ESPAÑA CINE",ES: Comedy Central 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14940
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",[ES] COMEDY CENTRAL
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18514
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",COMEDYCENTRAL UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18417
+#EXTINF:0 tvg-id="AMC.es" group-title="ESPAÑA CINE",ES: AMC HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15027
+#EXTINF:0 tvg-id="AMC.es" group-title="ESPAÑA CINE",ES: AMC 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14929
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",[ES] AMC
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18516
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",AMC UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18438
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",ES TCM SD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27084
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA CINE",M. Cine EspaÃ¦ol
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27099
+ 
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",EXTREMADURA SAT UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27071
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="ESPAÑA DOCUMENTALES",ES: Caza y Pesca 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15039
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",[ES] CAZA Y PESCA
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18485
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",CAZAyPESCA UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18423
+#EXTINF:0 tvg-id="BLAZE.uk" group-title="ESPAÑA DOCUMENTALES",BLAZE
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27092
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="ESPAÑA DOCUMENTALES",CAZA Y PESCA
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27094
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",CRIMEN+INVES
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27096
+#EXTINF:0 tvg-id="discov_rus" group-title="ESPAÑA DOCUMENTALES",DISCOVERY
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27097
+#EXTINF:0 tvg-id="History.uk" group-title="ESPAÑA DOCUMENTALES",HISTORIA
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27098
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",[ES] CRIMEN INVES
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18483
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",[ES] DISCOVERY
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18482
+#EXTINF:0 tvg-id="NatGeoHD.es" group-title="ESPAÑA DOCUMENTALES",ES: Nat Geo HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15080
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ESPAÑA DOCUMENTALES",ES: Nat Geo 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14974
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",ES: NatGeo Wild HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15081
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",ES: NatGeo Wild 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14975
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",NAT GEO UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18427
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",[ES] NAT GEO WILD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18519
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",[ES] NAT GEOGRAPH
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18530
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",NG WILD UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18420
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",[ES] EXTREMADURA SAT
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18454
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",[ES] CANAL ODISEA
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18535
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",[ES] CANAL ORBE21
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18549
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",[ES] SUNDANCE TV
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18539
+#EXTINF:0 tvg-id="Viajar.sp" group-title="ESPAÑA DOCUMENTALES",ES: Viajar HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15097
+#EXTINF:0 tvg-id="Viajar.sp" group-title="ESPAÑA DOCUMENTALES",ES: Viajar HD 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14985
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",[ES] VIAJAR
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18508
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",VIAJAR UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18405
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",[ES] BLAZE
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18487
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",[ES] CANAL COCINA
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18515
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",[ES] CANAL DECASA
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18536
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",[ES] HISTORIA
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18480
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA DOCUMENTALES",[ES] IBERALIA TV
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18470
+ 
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA NIÑOS",Super3/33
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18045
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="ESPAÑA NIÑOS",Clan
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18015
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA NIÑOS",Clan HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18050
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA NIÑOS",ES Disney+
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27085
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="ESPAÑA NIÑOS",NICKELODEON
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27101
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA NIÑOS",[ES] BABY TV
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18560
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA NIÑOS",[ES] BOING
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18558
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA NIÑOS",[ES] CANAL PANDA
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18461
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA NIÑOS",[ES] CLAN  TVE
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18527
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA NIÑOS",DISNEY CH UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18422
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA NIÑOS",[ES] DISNEY CH.
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18513
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA NIÑOS",[ES] DISNEY JR
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18473
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA NIÑOS",[ES] DISNEY XD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18481
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA NIÑOS",[ES] M. DISNEY
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18552
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA NIÑOS",[ES] NICK JR
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18540
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA NIÑOS",ES:M. Disney 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14960
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA NIÑOS",ES: M. DISNEY HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15101
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="ESPAÑA NIÑOS",ES: Nickelodeon HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15084
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="ESPAÑA NIÑOS",ES: NICKELODEON 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14976
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA NIÑOS",[ES] NICKELODEON
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18477
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA NIÑOS",NICKELODEON UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18426
+#EXTINF:0 tvg-id="Boing.it" group-title="ESPAÑA NIÑOS",Boing
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17995
+#EXTINF:0 tvg-id="disney" group-title="ESPAÑA NIÑOS",Disney Channel
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18062
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA NIÑOS",LOGOS KIDZ TV ES
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/17022
+ 
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",[ES] M. COMEDIA
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18468
+#EXTINF:0 tvg-id="TNT.es" group-title="ESPAÑA SERIES",ES: TNT HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15096
+#EXTINF:0 tvg-id="TNT.es" group-title="ESPAÑA SERIES",ES: TNT 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14984
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",[ES] TNT SD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18517
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",TNT UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18418
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",ES: M. SERIES HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15073
+#EXTINF:0 tvg-id="CanalPlusSeries.sp" group-title="ESPAÑA SERIES",ES: M. Series 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14970
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",[ES] M. SERIES
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18545
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",M. SERIES UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18421
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",ES: M. DRAMA HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15069
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",ES: M. Drama 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14961
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",[ES] M. DRAMA
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18467
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",M. DRAMA UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18398
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",ES: M. Seriesmania HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15074
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",ES: M. Seriesmania 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14971
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",[ES] M. SERIESMANIA
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18510
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",M.Seriesmania UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18412
+#EXTINF:0 tvg-id="Scifi.es" group-title="ESPAÑA SERIES",ES: SyFy HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15092
+#EXTINF:0 tvg-id="Scifi.es" group-title="ESPAÑA SERIES",ES: SyFy 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14980
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",[ES] SYFY
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18529
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",SYFY UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18406
+#EXTINF:0 tvg-id="AXNhd.es" group-title="ESPAÑA SERIES",ES: AXN HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15029
+#EXTINF:0 tvg-id="AXNhd.es" group-title="ESPAÑA SERIES",ES: AXN 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14931
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",[ES] AXN
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18475
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",AXN UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18447
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="ESPAÑA SERIES",ES: AXN White HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15030
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="ESPAÑA SERIES",ES: AXN White 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14932
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",[ES] AXN WHITE
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18474
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",AXN WHITE UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18409
+#EXTINF:0 tvg-id="Fox.es" group-title="ESPAÑA SERIES",ES: FOX HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15058
+#EXTINF:0 tvg-id="Fox.es" group-title="ESPAÑA SERIES",ES: FOX 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14947
+#EXTINF:0 tvg-id="FoxLife.es" group-title="ESPAÑA SERIES",ES: FOX LIFE HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15059
+#EXTINF:0 tvg-id="FoxLife.es" group-title="ESPAÑA SERIES",ES: FOX Life 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14948
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",[ES] FOX
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18472
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",[ES] FOX LIFE
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18471
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",FOX LIFE UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18415
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",FOX UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18401
+#EXTINF:0 tvg-id="Calle13.es" group-title="ESPAÑA SERIES",ES: Calle 13 HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/15036
+#EXTINF:0 tvg-id="Calle13.es" group-title="ESPAÑA SERIES",ES: Calle 13 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14935
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",[ES] CALLE 13
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18537
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",CALLE 13 UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18431
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",[ES] COSMO
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18484
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",COSMO UHD 4K
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/18416
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA SERIES",ES: Cosmopolitan 1080
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14958
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="ESPAÑA SERIES",ES: Cosmopolitan HD
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/14989
+#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="ESPAÑA SERIES",COSMO
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/27095
+ 
+#EXTINF:0 tvg-id="ext" group-title="ITALY",($===== ITALY-LOCAL-TIME =====$)
+http://www.bol.cat:80/HJNLYf5Zs9/9JUdcto1UC/7253
+ 
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",The Kapil Sharma Shows S01 E01
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8165.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",The Kapil Sharma Shows S01 E02
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8166.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E01
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8104.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E02
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8105.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E03
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8106.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E04
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8107.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E05
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8108.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E06
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8109.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E07
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8110.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E08
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8111.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E09
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8112.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E10
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8113.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E11
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8114.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E12
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8115.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E13
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8116.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E14
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8117.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E15
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8118.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E16
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8119.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E17
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8120.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E18
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8121.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E19
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8122.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E20
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8123.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E21
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8124.mp4
+#EXTINF:0 tvg-id="avi" group-title="The Kapil Sharma Shows",Spanish Driving Test In Urdu S01 E22
+http://www.bol.cat:80/series/HJNLYf5Zs9/9JUdcto1UC/8125.mp4
